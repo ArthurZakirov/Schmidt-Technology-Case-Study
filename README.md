@@ -54,4 +54,4 @@ file_paths = [
 ```
 
 ## Usage 
-Open the jupyter notebook ```case_study_schmidt_technology.ipynb``` and run the cells.
+Open the jupyter notebook ```notebooks/case_study_schmidt_technology.ipynb``` and run the cells.
