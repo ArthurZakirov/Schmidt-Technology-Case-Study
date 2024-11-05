@@ -1,5 +1,7 @@
 # **Case Study**: How Schmidt Technology can identify high risk supplier in their supply chain using their ERP data
 
+![Thumbnail](assets/thumbnail.png)
+
 ### Table Of Contents
 
 - [The Task](#the-task)
