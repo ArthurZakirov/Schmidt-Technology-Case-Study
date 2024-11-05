@@ -1,0 +1,13 @@
+pandas
+matplotlib
+seaborn 
+sqlalchemy
+jupyterlab
+pymysql
+python-dotenv
+cryptography
+scikit-learn
+
+plotly
+jupyter_contrib_nbextensions
+ipywidgets
